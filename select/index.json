@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "S(mile)ING!",
+  "base_artist": "島村卯月 (CV: 大橋彩香)",
+  "createdAt": "2026-03-01T12:10:19.796693Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "S(mile)ING!",
+      "artist": "島村卯月(CV: 大橋彩香)",
+      "has_synced": true,
+      "path": "select/01_S(mile)ING!_島村卯月(CV__大橋彩香).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "S(mile)ING! [ORT]",
+      "artist": "島村卯月(CV:大橋彩香)",
+      "has_synced": true,
+      "path": "select/02_S(mile)ING!_[ORT]_島村卯月(CV_大橋彩香).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "S(mile)ING! -LIVE MIX-",
+      "artist": "島村卯月 (大橋彩香)",
+      "has_synced": true,
+      "path": "select/03_S(mile)ING!_-LIVE_MIX-_島村卯月_(大橋彩香).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "S(mile)ING! -LIVE MIX- [ORT]",
+      "artist": "島村卯月(CV:大橋彩香)",
+      "has_synced": true,
+      "path": "select/04_S(mile)ING!_-LIVE_MIX-_[ORT]_島村卯月(CV_大橋彩香).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "S(mile)ING!",
+      "artist": "島村卯月 (大橋彩香)",
+      "has_synced": true,
+      "path": "select/05_S(mile)ING!_島村卯月_(大橋彩香).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "S(mile)ING!",
+      "artist": "島村卯月 (CV大橋彩香)",
+      "has_synced": true,
+      "path": "select/06_S(mile)ING!_島村卯月_(CV大橋彩香).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "S(mile)ING!",
+      "artist": "島村卯月(CV.大橋彩香)",
+      "has_synced": true,
+      "path": "select/07_S(mile)ING!_島村卯月(CV.大橋彩香).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "S(mile)ING! (LIVE MIX)",
+      "artist": "島村卯月",
+      "has_synced": true,
+      "path": "select/08_S(mile)ING!_(LIVE_MIX)_島村卯月.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "S(mile)ING! -LIVE MIX-",
+      "artist": "島村卯月",
+      "has_synced": true,
+      "path": "select/09_S(mile)ING!_-LIVE_MIX-_島村卯月.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "S(mile)ING!",
+      "artist": "島村卯月",
+      "has_synced": true,
+      "path": "select/10_S(mile)ING!_島村卯月.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "S(mile)ING!",
+      "artist": "島村卯月(CV:大橋彩香)",
+      "has_synced": false,
+      "path": "select/pl_01_S(mile)ING!_島村卯月(CV_大橋彩香).txt"
+    }
+  ]
+}
